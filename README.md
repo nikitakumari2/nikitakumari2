@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nikita Kumari, a passionate Data Scientist with a strong background in analytics and engineering. I'm currently pursuing my M.S. in Data Science, Analytics, and Engineering (Computing and Decision Analytics) at Arizona State University, where I'm focusing on Machine Learning, Big Data Analytics, and Advanced Databases.<br/>
+I'm Nikita Kumari, a passionate Data Scientist with a strong background in analytics and engineering. I'm currently pursuing my M.S. in Data Science, Analytics, and Engineering (Computing and Decision Analytics) at Arizona State University, where I'm focusing on Machine Learning, Big Data Analytics, and Advanced Databases. I'm also AWS certified.<br/>
 
 * 🔭 I’m currently working on projects involving machine learning and data pipeline development.<br/>
 
