@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&size=28&pause=1000&color=72F77C&background=3A6DFF00&width=435&lines=I'm+Nikita+Kumari.)](https://git.io/typing-svg)
 
-I'm a Data Scientist currently pursuing my M.S. in Data Science at Arizona State University, specializing in Machine Learning and Big Data Analytics. I'm AWS certified and passionate about building data-driven solutions.
+I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State University, specializing in Machine Learning and Big Data Analytics. I'm AWS certified and passionate about building data-driven solutions.
 
 🔭 Currently: Working on end-to-end ML projects and data pipelines.
 
