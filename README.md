@@ -19,7 +19,6 @@ I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State Unive
   </a>
 </p>
 
-
 # 💻 Tech Stack:
 ### Languages & Libraries
 <p align="left">
@@ -50,6 +49,16 @@ I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State Unive
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
     <img src="https://img.shields.io/badge/ChromaDB-5f5f5f?style=for-the-badge" alt="ChromaDB">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+### Cloud ☁️
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
