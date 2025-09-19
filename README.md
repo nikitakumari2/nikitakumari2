@@ -1,20 +1,16 @@
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
-I'm Nikita Kumari, a passionate Data Scientist with a strong background in analytics and engineering. I'm currently pursuing my M.S. in Data Science, Analytics, and Engineering (Computing and Decision Analytics) at Arizona State University, where I'm focusing on Machine Learning, Big Data Analytics, and Advanced Databases. I'm also AWS certified.<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&size=28&pause=1000&color=72F77C&background=3A6DFF00&width=435&lines=I'm+Nikita+Kumari.)](https://git.io/typing-svg)
 
-* 🔭 I’m currently working on projects involving machine learning and data pipeline development.<br/>
+I'm a Data Scientist currently pursuing my M.S. in Data Science at Arizona State University, specializing in Machine Learning and Big Data Analytics. I'm AWS certified and passionate about building data-driven solutions.
 
-* 🌱 I’m continuously learning and exploring new advancements in distributed computing and advanced analytics.<br/>
+🔭 Currently: Working on end-to-end ML projects and data pipelines.
 
-* 👯 I’m looking to collaborate on impactful data science and machine learning projects.<br/>
+🌱 Learning: Always improving my skills and keeping up with the latest advancements in the world of AI.
 
-* 🤔 I’m always looking for innovative ways to apply data-driven insights to real-world problems.<br/>
+👯 Open to: Collaborating on impactful data science and ML projects.
 
-* 💬 Ask me about data analysis, machine learning, or cloud technologies!<br/>
-
-* 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikitakumari2/).<br/>
-
-* ⚡ Fun fact: I've also conducted extensive research in biological sciences, analyzing complex datasets on climate, disease, and genomic data.<br/>
+📫 Connect with me: Portfolio | LinkedIn
 
 
 
