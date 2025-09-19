@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&size=30&pause=1000&color=72F77C&background=3A6DFF00&width=435&lines=Data+Scientist;ML+Engineer)](https://git.io/typing-svg)
+
 I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State University, specializing in Machine Learning and Big Data Analytics. I'm AWS certified and passionate about building data-driven solutions.
 
 🔭 Currently: Working on end-to-end ML projects and data pipelines.
