@@ -10,7 +10,14 @@ I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State Unive
 
 👯 Open to: Collaborating on impactful data science and ML projects.
 
-📫 Connect with me: Portfolio | LinkedIn
+📫 Connect with me: <p align="left">
+  <a href="https://nikitakumari2.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikitakumari2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
