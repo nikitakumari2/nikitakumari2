@@ -17,9 +17,6 @@ I'm Nikita and currently pursuing my M.S. in Data Science at Arizona State Unive
   <a href="https://www.linkedin.com/in/nikitakumari2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://public.tableau.com/app/profile/nikita.kumari4084/vizzes/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)" alt="Tableau"/>
-  </a>
 </p>
 
 # 💻 Tech Stack:
